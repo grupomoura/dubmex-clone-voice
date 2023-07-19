@@ -1,0 +1,9 @@
+*.wav
+*.mp3
+.env
+/legend_process1
+/legend_process2
+/legend_process3
+/voices_origin
+/venv
+__pycache__/
